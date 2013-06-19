@@ -1,9 +1,10 @@
 <style>
+h1 {
 font-size: 31px;
 color: #1d477a;
 letter-spacing: -1px;
 font-weight: bold;
-line-height: 1;
+line-height: 1; }
 </style>
 <h1>ebbflowgo_blog</h1>
 
