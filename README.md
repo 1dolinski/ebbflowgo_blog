@@ -4,7 +4,7 @@
 
 The site may be found here:
 
-[ebbFlowGo](www.ebbflowgo.tk)
+[ebbFlowGo](http://www.ebbflowgo.tk)
 
 #### Enhancements
 
